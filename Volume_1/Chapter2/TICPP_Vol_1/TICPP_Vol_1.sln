@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HelloStrings", "..\HelloStr
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Scopy", "..\Scopy\Scopy.vcxproj", "{ACC1B7A7-FE6D-4953-910F-12904D61F129}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FillVector", "..\FillVector\FillVector.vcxproj", "{391C346A-925D-4F7F-8B5C-674912C1CC00}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -25,6 +27,10 @@ Global
 		{ACC1B7A7-FE6D-4953-910F-12904D61F129}.Debug|Win32.Build.0 = Debug|Win32
 		{ACC1B7A7-FE6D-4953-910F-12904D61F129}.Release|Win32.ActiveCfg = Release|Win32
 		{ACC1B7A7-FE6D-4953-910F-12904D61F129}.Release|Win32.Build.0 = Release|Win32
+		{391C346A-925D-4F7F-8B5C-674912C1CC00}.Debug|Win32.ActiveCfg = Debug|Win32
+		{391C346A-925D-4F7F-8B5C-674912C1CC00}.Debug|Win32.Build.0 = Debug|Win32
+		{391C346A-925D-4F7F-8B5C-674912C1CC00}.Release|Win32.ActiveCfg = Release|Win32
+		{391C346A-925D-4F7F-8B5C-674912C1CC00}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
