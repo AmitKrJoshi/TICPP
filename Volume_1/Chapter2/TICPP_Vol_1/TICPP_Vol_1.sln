@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FillVector", "..\FillVector
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GetWords", "..\GetWords\GetWords.vcxproj", "{876D91A2-E060-495F-899E-980296C43F69}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VoidPointer", "VoidPointer\VoidPointer.vcxproj", "{14E6E6E6-6EC2-40C9-BA2D-05145FB2DF84}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -37,6 +39,10 @@ Global
 		{876D91A2-E060-495F-899E-980296C43F69}.Debug|Win32.Build.0 = Debug|Win32
 		{876D91A2-E060-495F-899E-980296C43F69}.Release|Win32.ActiveCfg = Release|Win32
 		{876D91A2-E060-495F-899E-980296C43F69}.Release|Win32.Build.0 = Release|Win32
+		{14E6E6E6-6EC2-40C9-BA2D-05145FB2DF84}.Debug|Win32.ActiveCfg = Debug|Win32
+		{14E6E6E6-6EC2-40C9-BA2D-05145FB2DF84}.Debug|Win32.Build.0 = Debug|Win32
+		{14E6E6E6-6EC2-40C9-BA2D-05145FB2DF84}.Release|Win32.ActiveCfg = Release|Win32
+		{14E6E6E6-6EC2-40C9-BA2D-05145FB2DF84}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
