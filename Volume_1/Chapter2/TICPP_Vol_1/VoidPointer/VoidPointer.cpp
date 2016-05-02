@@ -13,7 +13,7 @@ int main() {
 	//cout << *vp << endl;	//Can not dereference a void Pointer - Compile error
 	//Must cast back to char
 	cout << (*(char*)vp) << endl;
-
+	//Integer
 	vp = &i;
 	cout << (*(int*)vp) << endl;
 
