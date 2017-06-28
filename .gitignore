@@ -6,3 +6,4 @@ Release
 Debug
 *.opendb
 /Volume_1/Chapter2/TICPP_Vol_1/Runtime Debugging Flags
+*.db*
