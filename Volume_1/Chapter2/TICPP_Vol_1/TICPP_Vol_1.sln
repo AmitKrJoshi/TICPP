@@ -25,6 +25,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Pointer Arithmetic", "Point
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Name Control", "..\..\Chapter10\Name Control\Name Control.vcxproj", "{1C057B72-F2CC-4EDE-8697-6FB7715BA0AB}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "StaticObectInitilizationInProperOrder", "..\..\Chapter10\StaticObectInitilizationInProperOrder\StaticObectInitilizationInProperOrder.vcxproj", "{C7ACC987-489E-40E9-AAA7-C2FAAA193197}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -109,6 +111,14 @@ Global
 		{1C057B72-F2CC-4EDE-8697-6FB7715BA0AB}.Release|Win32.Build.0 = Release|Win32
 		{1C057B72-F2CC-4EDE-8697-6FB7715BA0AB}.Release|x64.ActiveCfg = Release|x64
 		{1C057B72-F2CC-4EDE-8697-6FB7715BA0AB}.Release|x64.Build.0 = Release|x64
+		{C7ACC987-489E-40E9-AAA7-C2FAAA193197}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C7ACC987-489E-40E9-AAA7-C2FAAA193197}.Debug|Win32.Build.0 = Debug|Win32
+		{C7ACC987-489E-40E9-AAA7-C2FAAA193197}.Debug|x64.ActiveCfg = Debug|x64
+		{C7ACC987-489E-40E9-AAA7-C2FAAA193197}.Debug|x64.Build.0 = Debug|x64
+		{C7ACC987-489E-40E9-AAA7-C2FAAA193197}.Release|Win32.ActiveCfg = Release|Win32
+		{C7ACC987-489E-40E9-AAA7-C2FAAA193197}.Release|Win32.Build.0 = Release|Win32
+		{C7ACC987-489E-40E9-AAA7-C2FAAA193197}.Release|x64.ActiveCfg = Release|x64
+		{C7ACC987-489E-40E9-AAA7-C2FAAA193197}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -15,15 +15,21 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Dependancy1.h">
+    <ClInclude Include="Dependency2StatFun.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Dependancy2.h">
+    <ClInclude Include="Dependency1StatFun.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Technique2.cpp">
+    <ClCompile Include="Technique2b.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Dependency1StatFun.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Dependency2StatFun.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
