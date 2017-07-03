@@ -20,8 +20,8 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{21D36670-62C0-4BCA-9C54-0471DAB95AEE}</ProjectGuid>
-    <RootNamespace>FreeStyleReference</RootNamespace>
+    <ProjectGuid>{2244AEC4-D1EF-421C-A6AD-51B18CFB5B74}</ProjectGuid>
+    <RootNamespace>DefaultCopyConstructor</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.15063.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />

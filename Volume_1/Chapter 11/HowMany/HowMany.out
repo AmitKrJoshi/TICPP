@@ -1,0 +1,31 @@
+HowMany()
+	h: Object Count = 1
+Entering f()
+HowMany(const HowMany&)
+	h copy: Object Count = 2
+x argument inside f()
+	h copy: Object Count = 2
+Returning from f()
+HowMany(const HowMany&)
+	h copy copy: Object Count = 3
+~HowMany()
+	h copy: Object Count = 2
+h2 after call to f()
+	h copy copy: Object Count = 2
+Call f(), no return value
+HowMany(const HowMany&)
+	h copy: Object Count = 3
+x argument inside f()
+	h copy: Object Count = 3
+Returning from f()
+HowMany(const HowMany&)
+	h copy copy: Object Count = 4
+~HowMany()
+	h copy: Object Count = 3
+~HowMany()
+	h copy copy: Object Count = 2
+After call to f()
+~HowMany()
+	h copy copy: Object Count = 1
+~HowMany()
+	h: Object Count = 0
